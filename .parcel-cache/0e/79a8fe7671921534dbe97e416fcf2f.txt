@@ -1,0 +1,12 @@
+11
+45C:\Users\Administrator\Desktop\test\cv-1\dist132623320725946481 1
+51C:\Users\Administrator\Desktop\test\cv-1\.gitignore132622795568006759 0
+54C:\Users\Administrator\Desktop\test\cv-1\src\style.css132623318084783076 0
+44C:\Users\Administrator\Desktop\test\cv-1\src132623320105412927 1
+55C:\Users\Administrator\Desktop\test\cv-1\src\index.html132623296332444016 0
+64C:\Users\Administrator\Desktop\test\cv-1\dist\index.38a7a4fe.css132623320725817148 0
+52C:\Users\Administrator\Desktop\test\cv-1\src\main.js132623299086899651 0
+67C:\Users\Administrator\Desktop\test\cv-1\dist\index.15491b11.js.map132623320725906587 0
+63C:\Users\Administrator\Desktop\test\cv-1\dist\index.15491b11.js132623320725817148 0
+68C:\Users\Administrator\Desktop\test\cv-1\dist\index.38a7a4fe.css.map132623320725926576 0
+56C:\Users\Administrator\Desktop\test\cv-1\dist\index.html132623320725807171 0
