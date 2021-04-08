@@ -21,7 +21,6 @@
 }
 
 #div1 {
-  
   position: fixed;
   left: 50%;
   transform: translateX(-50%);
@@ -29,7 +28,6 @@
 }
 
 #div1::before {
-  
   content: "";
   display: block;
   position: absolute;
@@ -49,11 +47,12 @@
 
   #div1Wrapper {
     height: 50vh;
+    border: 5px solid red;
   }
 
   #div1 {
     position: relative;
-    top: 0;
+    top: 10vh;
     right: 0;
   }
 }
